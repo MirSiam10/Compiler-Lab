@@ -1,3 +1,5 @@
+Write a C Program that will count length of string.
+
 #include<stdio.h>
 int main(){
 char ch[50];
