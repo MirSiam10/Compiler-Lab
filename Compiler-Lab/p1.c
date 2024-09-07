@@ -1,4 +1,4 @@
-Write a C Program that will count length of string.
+//Write a C Program that will count length of string.
 
 #include<stdio.h>
 int main(){
