@@ -1,4 +1,4 @@
-#Write a C Program that will count the number of white spaces in a string.
+//Write a C Program that will count the number of white spaces in a string.
 
 
 #include<stdio.h>
